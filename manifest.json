@@ -1,6 +1,6 @@
 {
-  "name": "Smart Eraser Tool",
-  "short_name": "Eraser",
+  "name": "Background Remover Tool",
+  "short_name": "BG Remover",
   "start_url": ".",
   "display": "standalone",
   "background_color": "#ffffff",
