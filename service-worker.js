@@ -6,6 +6,9 @@ const ASSETS = [
   "app.js",
   "icons/icon-192.png",
   "icons/icon-512.png",
+  "icons/linkdin.png",
+  "icons/og-image.png",
+  "icons/me.png",
   // Add more files as needed (brush.png, background.png, etc.)
 ];
 
