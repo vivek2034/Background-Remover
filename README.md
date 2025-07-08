@@ -2,7 +2,7 @@
 
 Effortlessly remove backgrounds from your images with our free, AI-powered Background Remover tool! Upload any photo and get a transparent PNG in seconds. Whether you need automatic background removal, smart selection, or manual brush editing, our tool makes it easy for everyone. No sign-up required, no watermarks — just fast, reliable results.
 
-[Live Demo](https://yourdomain.com/) <!-- Update with your actual live URL -->
+[Live Demo](https://vivek2034.github.io/Background-Remover/) <!-- Update with your actual live URL -->
 
 ---
 
@@ -48,7 +48,7 @@ Effortlessly remove backgrounds from your images with our free, AI-powered Backg
 ## Contributing
 
 Contributions, issues and feature requests are welcome!  
-Feel free to [open an issue](https://github.com/yourusername/background-remover/issues) or submit a pull request.
+Feel free to [open an issue](https://github.com/vivek2034/background-remover/issues) or submit a pull request.
 
 ---
 
