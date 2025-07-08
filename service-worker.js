@@ -2,8 +2,8 @@ const CACHE_NAME = "eraser-tool-v1";
 const ASSETS = [
   "./",
   "index.html",
-  "style.css",
-  "app.js",
+  "styles.css",
+  "script.js",
   "icons/icon-192.png",
   "icons/icon-512.png",
   "icons/linkdin.png",
